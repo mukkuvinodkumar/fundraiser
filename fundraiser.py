@@ -1,0 +1,1 @@
+print("This process belongs to fundraisers")
